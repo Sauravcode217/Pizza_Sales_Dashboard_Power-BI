@@ -1,4 +1,4 @@
-# Pizza_Sales_Dashboard_Power-BI
+# Pizza Sales PowerBI Dashboard 
 #### We used here Power BI for Data Visulization.
 #### To Fill KPI Requirement of Pizza Shop: Which Pizza, Category, and Size Affects Sales
 #### We Build Bar and Funnel charts to show daily and monthly trends on Total Order and Total Revenue.
